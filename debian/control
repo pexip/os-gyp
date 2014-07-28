@@ -1,12 +1,14 @@
 Source: gyp
 Section: python
 Priority: optional
-Maintainer: Debian Chromium Maintainers <pkg-chromium-maint@lists.alioth.debian.org>
-Uploaders: Giuseppe Iuculano <iuculano@debian.org>, Jérémy Lal <kapouer@melix.org>
+Maintainer: Pexip AS <packaging@pexip.com>
+XSBC-Pexip-Original-Maintainer: Debian Chromium Maintainers <pkg-chromium-maint@lists.alioth.debian.org>
+XSBC-Pexip-Original-Uploaders: Giuseppe Iuculano <iuculano@debian.org>, Jérémy Lal <kapouer@melix.org>
 Build-Depends: debhelper (>= 7.0.50~), python (>= 2.6.6-3~), python-setuptools,
  asciidoc, xsltproc, docbook-xsl, docbook-xml
 Standards-Version: 3.9.4
 Homepage: http://code.google.com/p/gyp/
+XS-Pexip-Upstream: http://ftp.debian.org/debian/ jessie
 
 Package: gyp
 Architecture: all

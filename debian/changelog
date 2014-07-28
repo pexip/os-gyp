@@ -1,3 +1,9 @@
+gyp (0.1~svn1729-3pexip1) pexip; urgency=low
+
+  * Prepare Pexip packaging
+
+ -- Nico <nico@pexip.com>  Mon, 28 Jul 2014 16:13:48 +0000
+
 gyp (0.1~svn1729-3) unstable; urgency=low
 
   * Build-Depends on python-setuptools. (Closes: #724516) 
